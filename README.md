@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinamraBhatnagar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JAVA with OOPS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through mail
 - 😄 Pronouns: ...
